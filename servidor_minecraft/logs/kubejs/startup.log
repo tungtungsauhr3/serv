@@ -1,0 +1,11 @@
+[23:07:12] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[23:07:12] [INIT] Loaded plugins:
+[23:07:12] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[23:07:12] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[23:07:12] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[23:07:12] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[23:07:12] [INIT] - com.tacz.guns.compat.kubejs.TimelessKubeJSPlugin
+[23:07:13] [INFO] cwstartuptweaks.js#1: CW Tweaks Startup scripts successfully loaded.
+[23:07:13] [INFO] Loaded script startup_scripts:cwstartuptweaks.js in 0.118 s
+[23:07:13] [INFO] Loaded script startup_scripts:matt's_stims_startup.js in 0.016 s
+[23:07:13] [INFO] Loaded 2/2 KubeJS startup scripts in 1.071 s with 0 errors and 0 warnings

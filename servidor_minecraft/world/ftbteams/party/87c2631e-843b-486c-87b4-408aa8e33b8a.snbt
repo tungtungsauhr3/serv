@@ -1,0 +1,17 @@
+{
+	id: "87c2631e-843b-486c-87b4-408aa8e33b8a"
+	type: "party"
+	owner: "62ce933d-669a-3e80-a037-56044a85235c"
+	ranks: {
+		62ce933d-669a-3e80-a037-56044a85235c: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "emilaviv's Party"
+		"ftbteams:description": "ssss"
+		"ftbteams:color": "#55FF55"
+		"ftbteams:free_to_join": 1b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [{ from: "00000000-0000-0000-0000-000000000000", date: 1782949812897L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"emilaviv\"}]}" }]
+	extra: { }
+}

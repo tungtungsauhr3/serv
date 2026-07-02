@@ -1,0 +1,17 @@
+{
+	id: "0bdc3c98-e4a0-3902-8d49-26ad96fa683f"
+	type: "player"
+	player_name: "Anubis_11"
+	ranks: {
+		0bdc3c98-e4a0-3902-8d49-26ad96fa683f: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Anubis_11"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF5988"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

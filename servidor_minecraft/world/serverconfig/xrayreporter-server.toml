@@ -1,0 +1,10 @@
+#Discord webhook URL for xray detection notifications. Leave empty to disable Discord alerts.
+discordWebhookUrl = ""
+#Discord role mention string to ping on detections (e.g. <@&123456789>). Leave empty to disable pings.
+discordAdminRoleMention = ""
+#Automatically ban players whose resourcepack is confirmed as an xray pack (suspicion score >= 4).
+#Disabled by default — enable only after reviewing initial reports to avoid false positives.
+autoBan = false
+#Kick/ban message shown to auto-banned players.
+autoBanMessage = "You have been banned for using an xray resourcepack."
+

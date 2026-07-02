@@ -1,0 +1,20 @@
+{
+	id: "4c367157-88cd-4dd2-8bc8-3e290e759378"
+	type: "party"
+	owner: "00ba8713-481a-351c-a368-bad0c9d19f03"
+	ranks: {
+		00ba8713-481a-351c-a368-bad0c9d19f03: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Meili ragebaiters"
+		"ftbteams:description": "Meili absolute ragebait"
+		"ftbteams:color": "#BC65FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1782949915839L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Wlax\"}]}" }
+		{ from: "00ba8713-481a-351c-a368-bad0c9d19f03", date: 1782950052345L, text: "{\"text\":\"asdasdwa\"}" }
+	]
+	extra: { }
+}
